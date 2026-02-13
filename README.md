@@ -45,6 +45,8 @@ The focus is not only *analysis*, but **doing analysis right**.
 ✔ Built analytical layers ready for KPI computation  
 ✔ Generated business insights from clean, reliable data  
 
+---
+
 ## 🔎 Key Business Insights
 
 - Revenue is retention-driven: 91% of daily revenue comes from repeat customers, indicating that frequency and loyalty—not one-time acquisition—are the primary revenue drivers.
@@ -58,4 +60,8 @@ The focus is not only *analysis*, but **doing analysis right**.
 - Cleaning is the core category: It contributes ~40% of revenue across all regions and dominates spending among high-loyalty customers, positioning it as the anchor category of the business.
 
 - East is the top-performing region: Leading in total revenue, making it a strategic priority for scaling initiatives or product experimentation.
+
+---
+![Analysis dashboard](Dashboard/Dashboard.png)
+
 
